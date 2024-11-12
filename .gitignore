@@ -5,8 +5,8 @@
 __pycache__/*
 
 # ignore all .vscode folders
-.vscode/
+/.vscode/
 
 # ignore all __pycache__ folders
 
-__pycache__/s
+/__pycache__/
